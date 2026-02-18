@@ -1,0 +1,35 @@
+#pealkiri{
+	text-align: center;
+	font-size: 100px;
+	left: 950px;
+	padding: ;
+}
+#Btn{
+	text-align: center;
+	cursor: pointer;
+	background: darkgray;
+	color: white;
+	padding: 30px 50px;
+	font-size: 20px;
+	border-radius: 25px;
+	max-width: 1980px;
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+#JokeDisplay{
+	text-align: center;
+	font-size: 50px;
+	background: lightgray;
+	border: solid black;
+	margin-left: 800px;
+	margin-right:800px;
+	border-radius: 25px;
+}
+#Chuckpng{
+	position: absolute;
+            top: 50%;
+            left: 0%;
+            transform: translate(0%, -50%);
+}
